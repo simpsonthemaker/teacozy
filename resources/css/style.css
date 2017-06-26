@@ -44,7 +44,7 @@ nav {
   flex-grow: 1;
 }
 
-/* Main*/
+/* Main */
 
 .main {
   padding-top: 69px;
@@ -69,7 +69,7 @@ nav {
 
 /* Store  */
 
-#shop {
+#featured {
   width: 1000px;
   height: 700px;
   margin: auto;
@@ -88,9 +88,9 @@ nav {
 
 .product span {
   display: block;
+  text-align: center;
   padding: 5px;
   font-weight: bold;
-  text-align: center;
 }
 
 /* Location */
@@ -115,12 +115,11 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;padding: 10px;
-  margin: 5px 20px;
   background-color: black;
-  flex-basis: 280px;
+  margin: 5px 20px;
 }
 
-/* Contact Section */
+/* Get in Touch */
 
 #contact {
   height: 200px;
