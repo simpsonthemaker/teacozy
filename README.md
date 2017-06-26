@@ -1,6 +1,6 @@
 # teacozy
 Code Academy Course
-Project Submission #2 June 26, 2017 Osaka, Japan
+Project Submission #2 June 26, 2017
 Focus on Display and Positioning
 
 Thoughts:
@@ -9,3 +9,4 @@ Display and positioning is still shaky concept for me...
 Thanks.
 
 David
+Osaka, Japan
