@@ -1,6 +1,6 @@
 # teacozy
 Code Academy Course
-Project Submission #2 June 26, 2017
+Project Submission #2 June 26, 2017 Osaka, Japan
 Focus on Display and Positioning
 
 Thoughts:
